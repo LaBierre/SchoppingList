@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Schopping List</string>
+    <string name="action_list_delete">Liste löschen</string>
+    <string name="action_item_delete">Artikel löschen</string>
+    <string name="dialog_title_delete">Liste löschen?</string>
+    <string name="dialog_message_delete_list">Willst du wirklich die ganze Liste löschen?</string>
+    <string name="dialog_positive_button">Ja, ich will!</string>
+    <string name="dialog_negative_button">Nope!</string>
+    <string name="exception_one">Cannot query unknown URI</string>
+    <string name="exception_two">Unknown URI</string>
+    <string name="exception_three">with match</string>
+    <string name="exception_four">Insertion is not supported for</string>
+    <string name="exception_nine">Failed to insert row for</string>
+    <string name="exception_ten">Deletion is not supported for</string>
+    <string name="delete_failed_edit_activity">Einträge nicht gelöscht!</string>
+    <string name="delete_succed_edit_activity">Einträge gelöscht!!</string>
+    <string name="start_text">
+        Moien, gib bitte deinen ersten Artikel ein. Bei Fragen einfach auf das Fragezeichen oben
+        rechts klicken.
+    </string>
+    <string name="dialog_title_help">Wie nutze ich die App?</string>
+    <string name="dialog_message_delete_help">
+        Um deinen ersten Eintrag zu tätigen berühre bitte das Textfeld und gib einen
+        Artikel ein. Dann auf \"SPEICHERN\" klicken und fertig! Durch das Abhaken einer zum Artikel
+        gehörenden Checkbox wird der Artikel automatisch gelöscht und erscheint nicht mehr in der Liste,
+        wenn ein neuer Artikel eingegeben wird oder wenn der "Artikel löschen" Reiter gedrückt wird.
+    </string>
+    <string name="dialog_help_button">ok</string>
+    <string name="dialog_message_back_pressed">
+        Durch das Drücken der Zurück-Fläche werden gecheckte Einträge gelöscht. Willst du das?
+    </string>
+</resources>
